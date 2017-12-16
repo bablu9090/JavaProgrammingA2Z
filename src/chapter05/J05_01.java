@@ -18,7 +18,7 @@ public class J05_01 {
 			System.out.println("You have not borned yet!");
 		
 		if(Age>0 && Age<=12)
-			System.out.println("You are a child.");
+			System.out.println("You are a baby.");
 		
 		if(Age>12 && Age<=19)
 			System.out.println("You are a teen ager.");
